@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnluCo.Egitim.API.Ilk.Hafta", "UnluCo.Egitim.API.Ilk.Hafta.csproj", "{670D5288-C510-4AB2-8944-116016078F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670D5288-C510-4AB2-8944-116016078F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670D5288-C510-4AB2-8944-116016078F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670D5288-C510-4AB2-8944-116016078F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670D5288-C510-4AB2-8944-116016078F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC59949-77FD-45C2-8A9A-4F0D12C49F86}
+	EndGlobalSection
+EndGlobal
